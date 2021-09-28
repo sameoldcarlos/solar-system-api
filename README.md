@@ -19,6 +19,6 @@ Nah! Just kidding... There is a list of attributes below, as well as the measure
 
 >>> Pay attention to the information below in order to make the application work properly
 
-Users can register if they want to use the API. To every registered user an api key is generated and then this key is sent to the registered e-mail. 
+Users need register if they want to use the API. An api key is generated and sent to the registered e-mail. 
 
-If you want your users to receive this e-mail, you must change the email settings on the project. Just go to the '.env' file and you will have access to these settings.
+If you want your users to receive the e-mail containing the API key, you must change the email settings on the project. Just go to the '.env' file and you will have access to these settings.
